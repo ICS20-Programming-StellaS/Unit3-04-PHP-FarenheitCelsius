@@ -1,0 +1,46 @@
+/* Created by: Stella S
+* Created on: Apr 2022
+* This CSS file defines the style for index.html
+* Unit3-04-PHP-FarenheitCelsius
+*/
+
+/* Created by: Stella S
+* Created on: Apr 2022
+* This CSS file defines the style for index.html
+* Unit3-04-HTML-FarenheitCelsius
+*/
+
+body {
+  background-color:		Crimson;
+}
+
+form {
+  background-color:	rgb(0, 255, 255);
+}
+
+p {
+  background-color:	rgb(0, 255, 255);
+}
+
+h3 {
+  background-color:	rgb(0, 255, 255);
+}
+
+h1 {
+  background-color:	rgb(0, 255, 255);
+}
+
+h2 {
+  background-color:	rgb(0, 255, 255);
+}
+}
+
+form {
+  background-color: rgb(220, 20, 60);
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+iframe {
+   background-color: rgb(220, 20, 60);
+}
